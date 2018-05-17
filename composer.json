@@ -1,0 +1,13 @@
+{
+    "name": "bez.dk/authorization",
+    "description": "Authorization for users",
+    "type": "library",
+    "license": "https://www.bez.dk/license",
+    "authors": [
+        {
+            "name": "Jonas Storm Nikolajsen",
+            "email": "contact@bez.dk"
+        }
+    ],
+    "require": {}
+}
