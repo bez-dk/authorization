@@ -1,5 +1,5 @@
 {
-    "name": "bez/authorization",
+    "name": "bez-dk/authorization",
     "description": "Authorization for users",
     "type": "library",
     "license": "MIT",
