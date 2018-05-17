@@ -2,12 +2,22 @@
     "name": "bez.dk/authorization",
     "description": "Authorization for users",
     "type": "library",
-    "license": "https://www.bez.dk/license",
+    "homepage": "bez-dk/authorization",
+    "license": "MIT",
     "authors": [
         {
             "name": "Jonas Storm Nikolajsen",
             "email": "contact@bez.dk"
+            "homepage": "https://www.bez.dk",
+            "role": "Developer"
         }
     ],
-    "require": {}
+    "require": {
+        "php": ">=7.2.0"
+    },
+    "autoload": {
+        "psr-0": {
+            "Authorization": "src"
+        }
+    }
 }
